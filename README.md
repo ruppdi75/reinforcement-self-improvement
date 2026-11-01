@@ -103,3 +103,7 @@ repeatably.
 ## License
 
 Text: **CC BY-SA 4.0** · Code and scripts: **MIT**. See [LICENSE](LICENSE).
+
+---
+
+#lumisystemsio
